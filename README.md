@@ -10,4 +10,5 @@ This project demonstrates the application of Multiple Linear Regression to predi
 Contents:
 
 README.md: This file you're currently reading, providing an overview of the repository.
+
 MultipleLinearRegression_StartupProfit.ipynb: Jupyter Notebook containing the Python code and documentation for the Multiple Linear Regression model.
