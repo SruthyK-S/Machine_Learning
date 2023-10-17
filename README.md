@@ -6,6 +6,7 @@ Welcome to the Machine Learning Repository! This repository is a collection of d
 Description:
 
 This project demonstrates the application of Multiple Linear Regression to predict the profit of a startup based on several factors, including R&D Spend, Administration, Marketing Spend, and the State in which the startup operates.
+
 Contents:
 
 README.md: This file you're currently reading, providing an overview of the repository.
